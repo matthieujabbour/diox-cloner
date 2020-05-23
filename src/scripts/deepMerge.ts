@@ -8,6 +8,7 @@
 import isPlainObject from 'is-plain-object';
 import deepCopy from 'scripts/deepCopy';
 
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 /**
  * Performs a deep merge of two plain objects. Only plain objects and arrays are deeply copied.

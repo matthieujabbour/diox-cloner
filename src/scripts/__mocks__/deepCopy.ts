@@ -5,9 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-/* istanbul ignore file */
-
-import deepCopy from 'scripts/deepCopy';
-import deepMerge from 'scripts/deepMerge';
-
-export { deepCopy, deepMerge };
+export default jest.fn((value) => value);
