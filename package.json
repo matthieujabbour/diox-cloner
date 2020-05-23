@@ -1,6 +1,6 @@
 {
   "name": "diox-cloner",
-  "version": "1.0.1",
+  "version": "TRAVIS_TAG",
   "description": "JavaScript Arrays and Objects deep cloner for diox (but not only)",
   "repository": "https://github.com/matthieujabbour/diox-cloner",
   "bugs": "https://github.com/matthieujabbour/diox-cloner/issues",
